@@ -266,9 +266,9 @@ python -m streamlit run app.py
 
 The application will open in your browser.
 
-☁️ Deployment
+ Deployment
 
-The application is designed to be deployed using Streamlit Community Cloud.
+- ☁️ Deployed on Streamlit Cloud
 
 Deployment process:
 
