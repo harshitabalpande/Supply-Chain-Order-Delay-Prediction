@@ -23,6 +23,14 @@ The trained Machine Learning model is integrated with an interactive Streamlit w
 
 ---
 
+## 🚀 Live Demo
+
+Try the deployed application:
+
+👉 [SupplyFlow AI – Live App](https://supplyflow-ai.streamlit.app)
+
+The application provides real-time supply chain order delay risk prediction using Machine Learning and Streamlit.
+
 ## 🎯 Problem Statement
 
 Supply chain delays can affect:
